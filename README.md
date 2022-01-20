@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello there 👋
+### General Kenobi 😂 you ARE a bold one ⚔️
+
+My name is Filip, I'm based in Kraków area in Poland. I am currently working through The Odin Project JavaScript curriculum. You can check my progress in my [odin-project](https://github.com/fbiernat/odin-project) repository. 
 
 <!--
 **fbiernat/fbiernat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
