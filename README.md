@@ -1,5 +1,4 @@
 ## Hello there 👋
-> General Kenobi 😂 you ARE a bold one ⚔️
 
 My name is Filip, I'm aspiring fullstack developer based in Kraków area in Poland. 
 
