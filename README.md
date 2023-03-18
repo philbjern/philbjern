@@ -13,7 +13,11 @@ On this account you can find my private project, including:
 
 🟡 My solutions to [hackerrank](https://www.hackerrank.com/) and [exercism](https://exercism.org/) programming challenges
 
-🌱 I’m currently interested in learning: Python development and Machine learning algorithms, extending my abilities in web front-end development, and learning new JVM language like Kotlin
+🌱 I’m currently interested in learning: 
+- Python development and Machine learning algorithms, 
+- shell scripting
+- extending my abilities in web front-end development, 
+- new JVM language like Kotlin
 
 ⚡ Fun fact: I am a guitar player who learns how to compose and produce his own songs in free time 
 
