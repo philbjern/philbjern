@@ -1,8 +1,21 @@
 ## Hello there 👋
 
-My name is Filip, I'm aspiring fullstack developer based in Kraków area in Poland. 
+Hi I'm Filip, fullstack developer based in Kraków area in Poland, with commercial backend Java experience. 
 
-I am currently working through The Odin Project fullstack JavaScript curriculum. You can check my progress in my [odin-project](https://github.com/fbiernat/odin-project) repository. 
+🔭 Currently working on developing retail POS system for major hearing aids producer.
+
+### Private projects
+On this account you can find my private project, including:
+
+🟡 The Odin Project fullstack JavaScript curriculum. You can check my progress in my [odin-project](https://github.com/fbiernat/odin-project) repository. 
+
+🟡 Command line interface front-end for public transport information written in Python [ttss-client](https://github.com/fbiernat/ttss-client)
+
+🟡 My solutions to [hackerrank](https://www.hackerrank.com/) and [exercism](https://exercism.org/) programming challenges
+
+🌱 I’m currently interested in learning: Python development and Machine learning algorithms, extending my abilities in web front-end development, and learning new JVM language like Kotlin
+
+⚡ Fun fact: I am a guitar player who learns how to compose and produce his own songs in free time 
 
 <!--
 **fbiernat/fbiernat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
