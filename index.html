@@ -5,17 +5,72 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>philbjern.github.io</title>
 <style>
-  text-center {
+  body {
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+    background: rgb(153,153,153);
+    background: linear-gradient(52deg, rgba(153,153,153,1) 0%, rgba(255,255,255,1) 23%, rgba(237,255,248,1) 52%, rgba(0,255,157,0.8610294459580707) 93%);
+  }
+
+  .text-center {
     text-align: center;
+  }
+
+  .container {
+    font-size: 1.4rem;
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255,255,255,0.4);
+    margin: 8rem;
+    border-radius: 30px;
+  }
+
+  a {
+    color: rgba(0, 255, 157, 1);
+  }
+
+  .dots {
+    font-size: 2.2rem;
   }
 </style>
 </head>
 <body>
-  <div class="text-center">
-    Redirecting to philbjern.github.io/odin-project ...
+  <div class="container text-center">
+    <div>
+      Redirecting to <a href="https://philbjern.github.io/odin-project">https://philbjern.github.io/odin-project</a>
+    </div>
+    <div class="dots">...</div>
   </div>
     <script>
+      const FRAMERATE = 350;
+      const REDIRECT_DELAY = 3000;
+      const dotsElem = document.querySelector(".dots");
+
+      function getNewDots(counter) {
+        dots = [".", "..", "...", "...."];
+        return dots[counter % dots.length];
+      }
+
+      let counter = 1;
+
+      function newFrame(counter) {
+        setTimeout(() => {
+          dotsElem.textContent = getNewDots(counter);
+          counter += 1
+          newFrame(counter)
+        }, FRAMERATE)
+      }
+
+      newFrame(counter);
+      
+      const redirectTimeout = setTimeout(() => {
         window.location.replace("https://philbjern.github.io/odin-project")
+      }, REDIRECT_DELAY);
     </script>
 </body>
 </html>
