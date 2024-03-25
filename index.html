@@ -49,7 +49,6 @@
     <script>
       const FRAMERATE = 350;
       const REDIRECT_DELAY = 3000;
-      const dotsElem = document.querySelector(".dots");
 
       function getNewDots(counter) {
         dots = [".", "..", "...", "...."];
@@ -57,7 +56,7 @@
       }
 
       let counter = 1;
-
+      const dotsElem = document.querySelector(".dots");
       function newFrame(counter) {
         setTimeout(() => {
           dotsElem.textContent = getNewDots(counter);
