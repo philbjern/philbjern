@@ -2,7 +2,7 @@
 
 Hi, my name is Filip, I am a software engineer based in Kraków area with commercial backend Java experience. 
 
-🔭 Currently learning Python and Django with MongoDB
+🔭 Currently learning Python, Django, Svelte and MongoDB
 
 ### Private projects
 On this account you can find my private project, including:
@@ -13,7 +13,7 @@ On this account you can find my private project, including:
 
 - `taco-cloud` Java Spring application
 
-- `tts-client` Command line interface front-end for public transport information written in Python [ttss-client](https://github.com/philbjern/ttss-client)
+- `tts-client` command line interface for public transport information API written in Python [ttss-client](https://github.com/philbjern/ttss-client)
 
 - `adventofcode-python`  solutions to [adventofcode](https://www.github.com/philbjern/adventofcode-python/) 
 
