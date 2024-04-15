@@ -7,11 +7,17 @@ Hi, my name is Filip, I am a software engineer based in Kraków area with commer
 ### Private projects
 On this account you can find my private project, including:
 
-- The Odin Project fullstack JavaScript course. You can check my progress in my [odin-project](https://github.com/philbjern/odin-project) repository. 
+- `todo-list` fullstack task management demo app, backend written in Java with Spring and MongoDB, front is created using Svelte
 
-- Command line interface front-end for public transport information written in Python [ttss-client](https://github.com/philbjern/ttss-client)
+- `odin-project` fullstack JavaScript course. You can check the code in my [odin-project](https://github.com/philbjern/odin-project) repository. And check my showcase/portfolio page for those projects [here](https://philbjern.github.io/odin-project)
 
-- My solutions to [adventofcode](https://www.github.com/philbjern/adventofcode-python/) and [exercism](https://github.com/philbjern/exercism) programming challenges
+- `taco-cloud` Java Spring application
+
+- `tts-client` Command line interface front-end for public transport information written in Python [ttss-client](https://github.com/philbjern/ttss-client)
+
+- `adventofcode-python`  solutions to [adventofcode](https://www.github.com/philbjern/adventofcode-python/) 
+
+- `exercism` [exercism](https://github.com/philbjern/exercism) programming challenges
 
 ### Learning
 🌱 I’m currently interested in learning: 
@@ -19,7 +25,7 @@ On this account you can find my private project, including:
 - Message Queues like RabbitMQ,
 - Python development and Machine Learning, 
 - Front-end framework Svelte,
-- Shell scripting,
+- Shell scripting and system administration,
 - New JVM language like Kotlin, 
 
 <!--
