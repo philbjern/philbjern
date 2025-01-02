@@ -1,21 +1,23 @@
 ## Hello 👋
 
-My name is Filip, I am a software engineer based in Kraków area with commercial backend Java experience.
+My name is Filip, I am a software developer based in Kraków area with commercial backend Java experience.
 
 ### Private projects
 Here you can find my private project, including:
 
-- `todo-list` fullstack task management demo app, backend written in Java with Spring and MongoDB, front was created using Svelte
+- [`todo-list`](https://github.com/philbjern/todolist) fullstack task management demo app, backend written in Java with Spring and MongoDB, front was created using Svelte
 
-- `odin-project` fullstack JavaScript course. You can check the code in my [odin-project](https://github.com/philbjern/odin-project) repository. And check my showcase/portfolio page for those projects [here](https://philbjern.github.io/odin-project)
+- [`github-service`](https://github.com/philbjern/githubservice) Spring Boot application for retreiving GitHub user's repository data using GitHub API (Recruitment task for Backend Java Developer role in Warsaw)
 
-- `taco-cloud` Java Spring application
+- [`odin-project`](https://github.com/philbjern/odin-project) fullstack JavaScript course with many projects which are presented [here](https://philbjern.github.io/portfolio) 
 
-- `tts-client` command line interface for public transport information API written in Python [ttss-client](https://github.com/philbjern/ttss-client)
+- [`taco-cloud`](https://github.com/philbjern/tacocloud) Java Spring application
 
-- `adventofcode-python`  solutions to [adventofcode](https://www.github.com/philbjern/adventofcode-python/) 
+- [`tts-client`](https://github.com/philbjern/ttss-client) command line interface for Kraków public transport information API written in Python [ttss-client](https://github.com/philbjern/ttss-client)
 
-- `exercism` [exercism](https://github.com/philbjern/exercism) programming challenges
+- [`adventofcode-python`](https://www.github.com/philbjern/adventofcode-python/) my solutions to adventofcode challenges in Python
+
+- [`exercism`](https://github.com/philbjern/exercism) exercism programming challenges solutions in Python and Java
 <!--
 ### Learning
 🌱 I’m currently interested in learning: 
@@ -28,6 +30,10 @@ Here you can find my private project, including:
 -->
 
 ### Certificates
+
+**Relational Databases and Bash Scripting** / *freecodecamp.org*\
+December 5, 2024 (*PostgreSQL, Bash Scripting*)\
+[freecodecamp.org/certification/fil-bie/relational-database-v8](https://wwww.freecodecamp.org/certification/fil-bie/relational-database-v8)
 
 **Scientific Computing with Python** / *freecodecamp.org*\
 August 13, 2024\
