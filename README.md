@@ -114,5 +114,6 @@ Interactive course on PostgreSQL databases and bash scripting and Git version ma
 - [Email](mailto:archloner@pm.me)
 - [LinkedIn](https://www.linkedin.com/in/phil-bjern-xff)
 - [Discord: archloner](https://discord.com)
+- [Portfolio page](https://philbjern.github.io/portfolio) 
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
