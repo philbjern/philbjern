@@ -1,6 +1,6 @@
 # Hello, I'm Filip 👋
 
-My name is Filip, I am a software developer based in Kraków area with commercial backend Java experience.
+My name is Filip, I am a software developer based in Kraków area, with 2+ years of commercial backend Java experience.
 
 ## 🖼️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
