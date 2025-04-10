@@ -21,27 +21,31 @@ My name is Filip, I am a software developer based in Kraków area, with 2+ years
 
 ## 🔭 Certificates
 
+**(New) JavaScript Algorithms and Data Structures** / *freecodecamp.org*\
+April 9, 2025, (*JavaScript, Data Structures, Algorithms*)\
+[freecodecamp.org/certification/fil-bie/javascript-algorithms-and-data-structures-v8](https://www.freecodecamp.org/certification/fil-bie/javascript-algorithms-and-data-structures-v8)
+
 **Relational Databases and Bash Scripting** / *freecodecamp.org*\
 December 5, 2024 (*PostgreSQL, Bash Scripting*)\
 [freecodecamp.org/certification/fil-bie/relational-database-v8](https://wwww.freecodecamp.org/certification/fil-bie/relational-database-v8)
 
 **Scientific Computing with Python** / *freecodecamp.org*\
-August 13, 2024\
+August 13, 2024 (*Python*)\
 [freecodecamp.org/certification/fil-bie/scientific-computing-with-python-v7](https://www.freecodecamp.org/certification/fil-bie/scientific-computing-with-python-v7)
 
 **Backend Development and APIs** / *freecodecamp.org*\
-June 29, 2024\
+June 29, 2024 (*JavaScript, Express, node*)\
 [freecodecamp.org/certification/fil-bie/back-end-development-and-apis](https://www.freecodecamp.org/certification/fil-bie/back-end-development-and-apis) 
 
 **Data Visualization Developer Certification** / *freecodecamp.org*\
-December 5, 2023, approximately 300 hours of work\
+December 5, 2023, (*D3, SVG*) approximately 300 hours of work\
 [freecodecamp.org/certification/fil-bie/data-visualization](https://www.freecodecamp.org/certification/fil-bie/data-visualization)
 
 **Responsive Web Design Developer Certification** / *freecodecamp.org*\
 December 5, 2023 (claimed, completed earlier), approximately 300 hours of work\
 [freecodecamp.org/certification/fil-bie/responsive-web-design](https://www.freecodecamp.org/certification/fil-bie/responsive-web-design)
 
-**JavaScript Algorithms and Data Structures** / *freecodecamp.org*\
+**JavaScript Algorithms and Data Structures (Legacy)** / *freecodecamp.org*\
 December 5, 2023 (claimed, completed earlier), approximately 300 hours of work\
 [freecodecamp.org/certification/fil-bie/javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/fil-bie/javascript-algorithms-and-data-structures)
 
