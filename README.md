@@ -1,6 +1,7 @@
-# Hello, I'm Filip 👋
+# Cześć, mam na imię Filip 👋
 
 My name is Filip, I am a software developer based in Kraków area, with 2+ years of commercial backend Java experience.
+Currently focusing on C/C++ and Python development.
 
 ## 🖼️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
