@@ -1,7 +1,10 @@
 # Cześć, mam na imię Filip 👋
 
 My name is Filip, I am a software developer based in Kraków area, with 2+ years of commercial backend Java experience.
-- Currently focusing on learning C/C++ for Game and Audio Processing development and Python for Data Engineering and AI development.
+
+Current focus:
+- Learning C/C++ for Game and Audio Processing development
+- Python for Backend development, Data Engineering and AI development.
 
 
 ## 🖼️ Random Dev Quote
