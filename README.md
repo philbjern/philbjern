@@ -67,10 +67,10 @@ Interactive course on PostgreSQL databases and bash scripting and Git version ma
 * [Calculator](https://github.com/philbjern/odin-project/tree/main/foundations/06-javascript/00-PROJECT-calculator)
 
 ### JavaScript
-* Objects and Object Constructors **(Project: [Library](https://github.com/philbjern/odin-project/tree/main/javascript/organizing-js-code/PROJECT-library))**
-* Factory Functions and the Module Pattern **(Project: [Tic Tac Toe](https://github.com/philbjern/odin-project/tree/main/javascript/organizing-js-code/PROJECT-tic-tac-toe))**
-* ES6 Classes and Modules **(Project: [Restaurant Page](https://github.com/philbjern/restaurant-page))**
-* OOP principles **(Project: [Todo List](https://github.com/philbjern/todo-list))**
+* Objects and Object Constructors [Library](https://github.com/philbjern/odin-project/tree/main/javascript/organizing-js-code/PROJECT-library)
+* Factory Functions and the Module Pattern [Tic Tac Toe](https://github.com/philbjern/odin-project/tree/main/javascript/organizing-js-code/PROJECT-tic-tac-toe)
+* ES6 Classes and Modules [Restaurant Page](https://github.com/philbjern/restaurant-page)
+* OOP principles [Todo List](https://github.com/philbjern/todo-list)
 
 ## 🔭 Certificates
 
