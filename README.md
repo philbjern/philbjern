@@ -11,7 +11,6 @@ My name is Filip, I am a software developer based in Kraków area, with 2+ years
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-blue?style=flat&logo=dotnet&logoColor=white)
 
 ## 🚀 Projects
 
@@ -76,7 +75,6 @@ December 5, 2023 (claimed, completed earlier), approximately 300 hours of work\
 ## 💼 Contact Me
 - [Email](mailto:archloner@pm.me)
 - [LinkedIn](https://www.linkedin.com/in/phil-bjern-xff)
-- [Discord: archloner](https://discord.com)
 - [Portfolio page](https://philbjern.github.io/portfolio) 
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
